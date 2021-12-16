@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/MCMH2000/LPH7470-1_LCD_library/master/pictures/lph7470-1.jpg" alt="lph7470-1" width="600"/>
+<img src="https://raw.githubusercontent.com/MCMH2000/MCMH2000/main/Kanalbanneranimationklein.gif" alt="banner" width="720"/>
